@@ -21,15 +21,122 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded"
 )
-
-# Custom CSS
+# Force light mode / fix text color
 st.markdown("""
 <style>
+    /* Fix text color for all elements */
+    .stApp, .stApp * {
+        color: #000000 !important;
+    }
+    
+    /* Keep links blue */
+    .stApp a {
+        color: #0066cc !important;
+    }
+    
+    /* Keep metric cards readable */
+    [data-testid="stMetricValue"] {
+        color: #000000 !important;
+    }
+    
+    [data-testid="stMetricLabel"] {
+        color: #333333 !important;
+    }
+    
+    /* Keep sidebar readable */
+    .css-1d391kg, .sidebar-content {
+        color: #000000 !important;
+    }
+    
+    /* Headers */
+    h1, h2, h3, h4, h5, h6 {
+        color: #000000 !important;
+    }
+    
+    /* DataFrames */
+    .dataframe, .stDataFrame {
+        color: #000000 !important;
+    }
+    
+    /* Success/Info/Warning boxes */
+    .stAlert, .stSuccess, .stInfo, .stWarning {
+        color: #000000 !important;
+    }
+    
+    .stAlert p, .stSuccess p, .stInfo p, .stWarning p {
+        color: #000000 !important;
+    }
+</style>
+""", unsafe_allow_html=True)
+
+# Custom CSS - Fixed text colors
+st.markdown("""
+<style>
+    /* Main background */
     .stApp { background-color: #f5f5f5; }
-    .big-font { font-size: 20px !important; font-weight: bold; }
-    .info-box { background-color: #e3f2fd; padding: 20px; border-radius: 10px; margin: 10px 0; }
-    .success-box { background-color: #e8f5e9; padding: 20px; border-radius: 10px; margin: 10px 0; }
-    .warning-box { background-color: #fff3e0; padding: 20px; border-radius: 10px; margin: 10px 0; }
+    
+    /* Force all text to be dark */
+    .stApp, .stApp * {
+        color: #000000 !important;
+    }
+    
+    /* Keep links blue for visibility */
+    .stApp a {
+        color: #0066cc !important;
+    }
+    
+    /* Headers */
+    h1, h2, h3, h4, h5, h6, .stMarkdown h1, .stMarkdown h2, .stMarkdown h3 {
+        color: #000000 !important;
+    }
+    
+    /* Metric cards */
+    [data-testid="stMetricValue"] {
+        color: #000000 !important;
+    }
+    
+    [data-testid="stMetricLabel"] {
+        color: #333333 !important;
+    }
+    
+    /* DataFrames */
+    .dataframe, .stDataFrame, div.dataframe {
+        color: #000000 !important;
+    }
+    
+    .dataframe td, .dataframe th {
+        color: #000000 !important;
+    }
+    
+    /* Sidebar */
+    .css-1d391kg, .sidebar-content, [data-testid="stSidebar"] {
+        color: #000000 !important;
+    }
+    
+    /* Alert boxes */
+    .stAlert, .stSuccess, .stInfo, .stWarning, .stError {
+        color: #000000 !important;
+    }
+    
+    .stAlert p, .stSuccess p, .stInfo p, .stWarning p, .stError p {
+        color: #000000 !important;
+    }
+    
+    /* Custom classes */
+    .big-font { font-size: 20px !important; font-weight: bold; color: #000000 !important; }
+    .info-box { background-color: #e3f2fd; padding: 20px; border-radius: 10px; margin: 10px 0; color: #000000 !important; }
+    .success-box { background-color: #e8f5e9; padding: 20px; border-radius: 10px; margin: 10px 0; color: #000000 !important; }
+    .warning-box { background-color: #fff3e0; padding: 20px; border-radius: 10px; margin: 10px 0; color: #000000 !important; }
+    
+    /* Button text */
+    .stButton button {
+        color: #ffffff !important;
+    }
+    
+    /* Selectbox and input labels */
+    .stSelectbox label, .stNumberInput label {
+        color: #000000 !important;
+    }
 </style>
 """, unsafe_allow_html=True)
 
