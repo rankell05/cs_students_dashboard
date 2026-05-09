@@ -1,0 +1,181 @@
+Student ID,Name,Gender,Age,GPA,Major,Interested Domain,Projects,Future Career,Python,SQL,Java,Skill Score
+1,John Smith,0,21,3.5,Computer Science,Artificial Intelligence,Chatbot Development,Machine Learning Researcher,3,3,1,2.33
+2,Alice Johnson,1,20,3.2,Computer Science,Data Science,Data Analytics,Data Scientist,2,3,1,2.0
+3,Robert Davis,0,22,3.8,Computer Science,Software Development,E-Commerce Website,Software Engineer,3,3,2,2.67
+4,Emily Wilson,1,21,3.7,Computer Science,Web Development,Full-Stack Web App,Web Developer,1,3,3,2.33
+5,Michael Brown,0,23,3.4,Computer Science,Cybersecurity,Network Security,Information Security Analyst,2,1,3,2.0
+6,Laura Lee,1,22,3.9,Computer Science,Machine Learning,Image Recognition,Machine Learning Engineer,3,2,1,2.0
+7,William Johnson,0,20,3.6,Computer Science,Database Management,Sql Query Optimization,Database Administrator,2,3,1,2.0
+8,Sarah Miller,1,21,3.7,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,1,3,2,2.0
+9,James Wilson,0,23,3.3,Computer Science,Mobile App Development,Android App,Mobile App Developer,2,1,3,2.0
+10,Olivia Clark,1,22,3.5,Computer Science,Computer Graphics,3D Rendering,Graphics Programmer,1,2,3,2.0
+11,Andrew Hall,0,21,3.8,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,3,2,1,2.0
+12,David Jones,0,22,3.7,Computer Science,Web Development,Full-Stack Web App,Web Developer,3,3,2,2.67
+13,Elizabeth Williams,1,21,3.3,Computer Science,Mobile App Development,Ios App,Mobile App Developer,2,1,3,2.0
+14,Charles Miller,0,23,3.5,Computer Science,Computer Graphics,Game Development,Game Developer,1,2,3,2.0
+15,Susan Davis,1,22,3.8,Computer Science,Software Engineering,E-Commerce Website,Software Engineer,3,3,2,2.67
+16,John Brown,0,20,3.6,Computer Science,Cybersecurity,Network Security,Information Security Analyst,2,1,3,2.0
+17,Laura Lee,1,21,3.9,Computer Science,Machine Learning,Image Recognition,Machine Learning Engineer,3,2,1,2.0
+18,William Johnson,0,23,3.6,Computer Science,Database Management,Sql Query Optimization,Database Administrator,2,3,1,2.0
+19,Sarah Miller,1,22,3.7,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,1,3,2,2.0
+20,James Wilson,0,20,3.3,Computer Science,Mobile App Development,Android App,Mobile App Developer,2,1,3,2.0
+21,Olivia Clark,1,21,3.5,Computer Science,Computer Graphics,3D Rendering,Graphics Programmer,1,2,3,2.0
+22,Andrew Hall,0,23,3.8,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,3,2,1,2.0
+23,David Jones,0,22,3.7,Computer Science,Web Development,Full-Stack Web App,Web Developer,3,3,2,2.67
+24,Elizabeth Williams,1,21,3.3,Computer Science,Mobile App Development,Ios App,Mobile App Developer,2,1,3,2.0
+25,Charles Miller,0,23,3.5,Computer Science,Computer Graphics,Game Development,Game Developer,1,2,3,2.0
+26,Susan Davis,1,22,3.8,Computer Science,Software Engineering,E-Commerce Website,Software Engineer,3,3,2,2.67
+27,John Brown,0,20,3.6,Computer Science,Cybersecurity,Network Security,Information Security Analyst,2,1,3,2.0
+28,Laura Lee,1,21,3.9,Computer Science,Machine Learning,Image Recognition,Machine Learning Engineer,3,2,1,2.0
+29,William Johnson,0,23,3.6,Computer Science,Database Management,Sql Query Optimization,Database Administrator,2,3,1,2.0
+30,Sarah Miller,1,22,3.7,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,1,3,2,2.0
+31,James Wilson,0,20,3.3,Computer Science,Mobile App Development,Android App,Mobile App Developer,2,1,3,2.0
+32,Olivia Clark,1,21,3.5,Computer Science,Computer Graphics,3D Rendering,Graphics Programmer,1,2,3,2.0
+33,Andrew Hall,0,23,3.8,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,3,2,1,2.0
+34,David Jones,0,22,3.7,Computer Science,Web Development,Full-Stack Web App,Web Developer,3,3,2,2.67
+35,Elizabeth Williams,1,21,3.3,Computer Science,Mobile App Development,Ios App,Mobile App Developer,2,1,3,2.0
+36,Charles Miller,0,23,3.5,Computer Science,Computer Graphics,Game Development,Game Developer,1,2,3,2.0
+37,Susan Davis,1,22,3.8,Computer Science,Software Engineering,E-Commerce Website,Software Engineer,3,3,2,2.67
+38,John Brown,0,20,3.6,Computer Science,Cybersecurity,Network Security,Information Security Analyst,2,1,3,2.0
+39,Laura Lee,1,21,3.9,Computer Science,Machine Learning,Image Recognition,Machine Learning Engineer,3,2,1,2.0
+40,Jessica Jones,1,22,3.6,Computer Science,Cloud Computing,Gcp Deployment,Cloud Solutions Architect,3,3,2,2.67
+41,Peter Parker,0,20,3.3,Computer Science,Software Development,Social Media Platform,Software Engineer,2,1,3,2.0
+42,Mary Jane Watson,1,21,3.7,Computer Science,Web Development,E-Commerce Website,Web Developer,1,3,3,2.33
+43,Harry Osborn,0,23,3.5,Computer Science,Mobile App Development,Ios Game,Mobile App Developer,2,1,3,2.0
+44,Gwen Stacy,1,22,3.8,Computer Science,Computer Graphics,3D Animation,Graphics Programmer,1,2,3,2.0
+45,Eddie Brock,0,21,3.6,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,3,2,1,2.0
+46,Michelle Williams,1,20,3.3,Computer Science,Data Science,Machine Learning,Data Scientist,2,3,1,2.0
+47,Flash Thompson,0,22,3.7,Computer Science,Cybersecurity,Network Security,Information Security Analyst,1,3,2,2.0
+48,Liz Allan,1,21,3.5,Computer Science,Database Management,Sql Query Optimization,Database Administrator,2,1,3,2.0
+49,Jason Macendale,0,23,3.8,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,3,3,2,2.67
+50,Fred Myers,0,22,3.6,Computer Science,Software Development,Social Media Platform,Software Engineer,2,1,3,2.0
+51,Betty Brant,1,21,3.7,Computer Science,Web Development,E-Commerce Website,Web Developer,1,3,3,2.33
+52,Ned Leeds,0,20,3.3,Computer Science,Mobile App Development,Android Game,Mobile App Developer,2,1,3,2.0
+53,Silver Sable,1,22,3.8,Computer Science,Computer Graphics,3D Modeling,Graphics Programmer,1,2,3,2.0
+54,Black Cat,1,21,3.6,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,3,2,1,2.0
+55,Venom,0,20,3.3,Computer Science,Data Science,Machine Learning,Data Scientist,2,3,1,2.0
+56,Carnage,0,22,3.7,Computer Science,Cybersecurity,Network Security,Information Security Analyst,1,3,2,2.0
+57,Lizard,0,21,3.5,Computer Science,Database Management,Sql Query Optimization,Database Administrator,2,1,3,2.0
+58,Electro,0,23,3.8,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,3,3,2,2.67
+59,Sandman,0,22,3.6,Computer Science,Software Development,Social Media Platform,Software Engineer,2,1,3,2.0
+60,Mysterio,0,20,3.3,Computer Science,Web Development,E-Commerce Website,Web Developer,1,3,3,2.33
+61,Rhino,0,21,3.7,Computer Science,Mobile App Development,Android Game,Mobile App Developer,2,1,3,2.0
+62,Scorpion,0,22,3.5,Computer Science,Computer Graphics,3D Animation,Graphics Programmer,1,2,3,2.0
+63,Vulture,0,23,3.8,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,3,2,1,2.0
+64,Shocker,0,20,3.3,Computer Science,Data Science,Machine Learning,Data Scientist,2,3,1,2.0
+65,Kraven The Hunter,0,22,3.7,Computer Science,Cybersecurity,Network Security,Information Security Analyst,1,3,2,2.0
+66,Green Goblin,0,21,3.5,Computer Science,Database Management,Sql Query Optimization,Database Administrator,2,1,3,2.0
+67,Doctor Octopus,0,23,3.8,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,3,3,2,2.67
+68,Morbius,0,22,3.6,Computer Science,Software Development,Social Media Platform,Software Engineer,2,1,3,2.0
+69,Lizard,0,20,3.3,Computer Science,Web Development,E-Commerce Website,Web Developer,1,3,3,2.33
+70,Hydro-Man,0,21,3.7,Computer Science,Mobile App Development,Android Game,Mobile App Developer,2,1,3,2.0
+71,Kingpin,0,22,3.5,Computer Science,Computer Graphics,3D Animation,Graphics Programmer,1,2,3,2.0
+72,Taskmaster,0,23,3.8,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,3,2,1,2.0
+73,Modok,0,20,3.3,Computer Science,Data Science,Machine Learning,Data Scientist,2,3,1,2.0
+74,Aim,0,22,3.7,Computer Science,Cybersecurity,Network Security,Information Security Analyst,1,3,2,2.0
+75,Hydra,0,21,3.5,Computer Science,Database Management,Sql Query Optimization,Database Administrator,2,1,3,2.0
+76,Aim,1,22,3.7,Computer Science,Cybersecurity,Network Security,Information Security Analyst,1,3,2,2.0
+77,Agent Coulson,0,35,3.9,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,3,3,2,2.67
+78,Agent Hill,1,33,3.8,Computer Science,Cybersecurity,Network Security,Information Security Analyst,1,3,2,2.0
+79,Agent Melinda May,1,37,3.7,Computer Science,Database Management,Sql Query Optimization,Database Administrator,2,1,3,2.0
+80,Agent Daisy Johnson,1,29,3.6,Computer Science,Mobile App Development,Android Game,Mobile App Developer,3,2,3,2.67
+81,Agent Simmons,1,31,3.5,Computer Science,Web Development,E-Commerce Website,Web Developer,1,3,3,2.33
+82,Agent Fitz,0,35,3.9,Computer Science,Software Development,Social Media Platform,Software Engineer,2,1,3,2.0
+83,Agent Mack,0,37,3.8,Computer Science,Computer Graphics,3D Animation,Graphics Programmer,1,2,3,2.0
+84,Agent Bobbi Morse,1,29,3.7,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,3,2,1,2.0
+85,Agent Lance Hunter,0,33,3.6,Computer Science,Data Science,Machine Learning,Data Scientist,2,3,1,2.0
+86,Oliver Davis,0,22,3.7,Computer Science,Network Security,Firewall Management,Security Analyst,3,2,1,2.0
+87,Ava Miller,1,21,3.6,Computer Science,Machine Learning,Deep Learning Models,Machine Learning Engineer,3,2,1,2.0
+88,Liam Wilson,0,23,3.8,Computer Science,Database Management,Data Warehouse Design,Database Administrator,2,3,1,2.0
+89,Sophia Johnson,1,22,3.5,Computer Science,Software Development,Embedded Systems,Embedded Software Engineer,1,3,2,2.0
+90,Michael Brown,0,21,3.9,Computer Science,Web Development,Front-End Development,Web Developer,3,2,1,2.0
+91,Emily Lee,1,20,3.7,Computer Science,Data Science,Statistical Analysis,Data Analyst,3,2,1,2.0
+92,William Davis,0,22,3.4,Computer Science,Artificial Intelligence,Robotics,Robotics Engineer,3,3,1,2.33
+93,Olivia Brown,1,21,3.5,Computer Science,Game Development,Mobile Game Development,Game Developer,1,3,2,2.0
+94,John Smith,0,23,3.6,Computer Science,Cybersecurity,Penetration Testing,Ethical Hacker,3,3,2,2.67
+95,Alice Johnson,1,20,3.2,Computer Science,Computer Vision,Object Detection,Computer Vision Engineer,3,2,1,2.0
+96,Robert Davis,0,22,3.8,Computer Science,Software Engineering,Devops,Devops Engineer,3,2,1,2.0
+97,Emily Wilson,1,21,3.7,Computer Science,Bioinformatics,Genomic Data Analysis,Bioinformatician,1,3,3,2.33
+98,Michael Brown,0,23,3.4,Computer Science,Iot (Internet Of Things),Smart Home Automation,Iot Developer,1,3,2,2.0
+99,Laura Lee,1,22,3.9,Computer Science,Natural Language Processing,Chatbot Development,Nlp Engineer,3,2,1,2.0
+100,William Johnson,0,20,3.6,Computer Science,Data Mining,Market Analysis,Data Analyst,3,2,1,2.0
+101,Sarah Miller,1,21,3.7,Computer Science,Cloud Computing,Cloud Migration Specialist,Cloud Solutions Architect,1,3,2,2.0
+102,James Wilson,0,23,3.3,Computer Science,Human-Computer Interaction,Usability Testing,Ux Designer,3,2,1,2.0
+103,Olivia Clark,1,22,3.5,Computer Science,Biomedical Computing,Medical Imaging Analysis,Healthcare It Specialist,1,3,2,2.0
+104,Andrew Hall,0,21,3.8,Computer Science,Quantum Computing,Quantum Algorithm Development,Quantum Computing Researcher,3,2,1,2.0
+105,David Jones,0,22,3.7,Computer Science,Computer Graphics,Virtual Reality Development,Vr Developer,1,3,2,2.0
+106,Elizabeth Williams,1,21,3.3,Computer Science,Blockchain Technology,Smart Contracts Developer,Blockchain Engineer,1,2,3,2.0
+107,Charles Miller,0,23,3.5,Computer Science,Information Retrieval,Search Engine Optimization,Seo Specialist,1,2,3,2.0
+108,Susan Davis,1,22,3.8,Computer Science,Data Privacy,Privacy Compliance Officer,Data Privacy Specialist,1,2,3,2.0
+109,John Brown,0,20,3.6,Computer Science,Geographic Information Systems,Gis Mapping,Geospatial Analyst,1,2,3,2.0
+110,Laura Lee,1,21,3.9,Computer Science,Distributed Systems,Distributed Systems Architect,Distributed Systems Engineer,1,2,3,2.0
+111,William Johnson,0,23,3.6,Computer Science,Digital Forensics,Computer Forensic Analyst,Digital Forensics Specialist,1,2,3,2.0
+112,Sarah Miller,1,22,3.7,Computer Science,Bioinformatics,Protein Structure Prediction,Bioinformatician,1,2,3,2.0
+113,James Wilson,0,20,3.3,Computer Science,Human-Computer Interaction,User Experience Researcher,Ux Designer,1,2,3,2.0
+114,Olivia Clark,1,21,3.5,Computer Science,Biomedical Computing,Healthcare Data Analyst,Healthcare It Specialist,1,2,3,2.0
+115,Andrew Hall,0,23,3.8,Computer Science,Quantum Computing,Quantum Algorithm Development,Quantum Computing Researcher,1,2,3,2.0
+116,Grace Smith,1,20,3.6,Computer Science,Artificial Intelligence,Neural Network Development,Ai Researcher,3,2,1,2.0
+117,Michael Johnson,0,22,3.4,Computer Science,Data Science,Big Data Analytics,Data Analyst,2,3,1,2.0
+118,Olivia Davis,1,21,3.9,Computer Science,Software Development,Mobile App Development,Software Engineer,3,3,2,2.67
+119,William Brown,0,23,3.7,Computer Science,Web Development,E-Commerce Website,Web Developer,1,3,3,2.33
+120,Emily Wilson,1,22,3.5,Computer Science,Cybersecurity,Network Security,Information Security Analyst,2,1,3,2.0
+121,David Lee,0,21,3.8,Computer Science,Machine Learning,Image Classification,Machine Learning Engineer,3,1,1,1.67
+122,Sophia Miller,1,20,3.7,Computer Science,Database Management,Sql Database Design,Database Administrator,1,3,2,2.0
+123,James Wilson,0,23,3.3,Computer Science,Cloud Computing,Cloud Infrastructure Management,Cloud Solutions Architect,3,1,1,1.67
+124,Emma Clark,1,22,3.5,Computer Science,Mobile App Development,Ios App Development,Mobile App Developer,2,3,1,2.0
+125,Matthew Hall,0,21,3.8,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,3,1,1,1.67
+126,Olivia Davis,1,22,3.7,Computer Science,Web Development,Full-Stack Web App,Web Developer,1,3,3,2.33
+127,William Smith,0,23,3.3,Computer Science,Mobile App Development,Android App Development,Mobile App Developer,2,1,3,2.0
+128,Emily Johnson,1,20,3.5,Computer Science,Computer Graphics,3D Modeling,Graphics Programmer,1,2,3,2.0
+129,David Brown,0,22,3.8,Computer Science,Software Engineering,Enterprise Software Development,Software Engineer,3,3,2,2.67
+130,Sophia Wilson,1,21,3.7,Computer Science,Cybersecurity,Network Security,Information Security Analyst,2,1,3,2.0
+131,James Miller,0,23,3.3,Computer Science,Database Management,Sql Query Optimization,Database Administrator,2,3,1,2.0
+132,Emma Johnson,1,22,3.5,Computer Science,Cloud Computing,Aws Deployment,Cloud Solutions Architect,1,3,2,2.0
+133,Matthew Lee,0,21,3.8,Computer Science,Artificial Intelligence,Computer Vision,Ai Researcher,3,2,1,2.0
+134,Oliver Davis,0,23,3.7,Computer Science,Data Science,Machine Learning,Data Scientist,2,3,1,2.0
+135,Isabella Brown,1,20,3.6,Computer Science,Software Development,Web Application Development,Software Engineer,3,1,3,2.33
+136,Elijah Smith,0,22,3.4,Computer Science,Web Development,E-Commerce Website,Web Developer,1,3,3,2.33
+137,Ava Miller,1,21,3.9,Computer Science,Cybersecurity,Security Auditing,Information Security Analyst,3,2,1,2.0
+138,Liam Wilson,0,23,3.7,Computer Science,Machine Learning,Natural Language Processing,Machine Learning Engineer,3,2,1,2.0
+139,Sophia Johnson,1,22,3.5,Computer Science,Database Management,Sql Database Administration,Database Administrator,1,3,2,2.0
+140,Michael Brown,0,21,3.8,Computer Science,Cloud Computing,Cloud Solution Architecture,Cloud Solutions Architect,3,3,1,2.33
+141,Emily Lee,1,20,3.7,Computer Science,Mobile App Development,Cross-Platform App Development,Mobile App Developer,1,3,2,2.0
+142,William Davis,0,23,3.3,Computer Science,Artificial Intelligence,Reinforcement Learning,Ai Researcher,3,1,2,2.0
+143,Olivia Brown,1,22,3.5,Computer Science,Data Science,Data Mining,Data Analyst,2,1,3,2.0
+144,John Smith,0,21,3.6,Computer Science,Web Development,Front-End Development,Web Developer,1,3,2,2.0
+145,Alice Johnson,1,20,3.7,Computer Science,Machine Learning,Computer Vision,Machine Learning Engineer,3,2,1,2.0
+146,Charlotte Davis,1,22,3.7,Computer Science,Artificial Intelligence,Reinforcement Learning,Ai Researcher,3,2,1,2.0
+147,Joseph Miller,0,21,3.6,Computer Science,Data Science,Machine Learning,Data Scientist,3,2,1,2.0
+148,Emma Wilson,1,20,3.8,Computer Science,Software Development,Mobile App Development,Software Engineer,3,3,2,2.67
+149,Oliver Brown,0,23,3.7,Computer Science,Web Development,E-Commerce Website,Web Developer,1,3,3,2.33
+150,Sophia Johnson,1,22,3.5,Computer Science,Cybersecurity,Network Security,Information Security Analyst,2,1,3,2.0
+151,William Smith,0,21,3.9,Computer Science,Machine Learning,Image Classification,Machine Learning Engineer,3,2,1,2.0
+152,Charlotte Davis,1,22,3.7,Computer Science,Database Management,Sql Database Design,Database Administrator,1,3,2,2.0
+153,James Wilson,0,20,3.6,Computer Science,Cloud Computing,Cloud Infrastructure Management,Cloud Solutions Architect,3,1,1,1.67
+154,Olivia Clark,1,21,3.5,Computer Science,Mobile App Development,Ios App Development,Mobile App Developer,1,3,2,2.0
+155,Matthew Hall,0,23,3.8,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,3,1,1,1.67
+156,Elijah Davis,0,22,3.7,Computer Science,Web Development,Full-Stack Web App,Web Developer,1,3,3,2.33
+157,Emma Johnson,1,20,3.6,Computer Science,Cybersecurity,Security Auditing,Information Security Analyst,3,2,1,2.0
+158,Liam Wilson,0,21,3.4,Computer Science,Machine Learning,Natural Language Processing,Machine Learning Engineer,3,2,1,2.0
+159,Sophia Johnson,1,22,3.5,Computer Science,Database Management,Sql Database Administration,Database Administrator,1,3,2,2.0
+160,Michael Brown,0,23,3.7,Computer Science,Cloud Computing,Cloud Solution Architecture,Cloud Solutions Architect,3,3,1,2.33
+161,Emily Lee,1,20,3.8,Computer Science,Mobile App Development,Cross-Platform App Development,Mobile App Developer,1,3,2,2.0
+162,William Davis,0,21,3.7,Computer Science,Artificial Intelligence,Reinforcement Learning,Ai Researcher,3,1,2,2.0
+163,Olivia Brown,1,22,3.5,Computer Science,Data Science,Data Mining,Data Analyst,2,1,3,2.0
+164,John Smith,0,23,3.6,Computer Science,Web Development,Front-End Development,Web Developer,1,3,2,2.0
+165,Alice Johnson,1,20,3.7,Computer Science,Machine Learning,Computer Vision,Machine Learning Engineer,3,2,1,2.0
+166,Charlotte Davis,1,22,3.7,Computer Science,Artificial Intelligence,Neural Network Development,Ai Researcher,3,2,1,2.0
+167,Joseph Miller,0,21,3.6,Computer Science,Data Science,Big Data Analytics,Data Analyst,2,3,1,2.0
+168,Emma Wilson,1,20,3.8,Computer Science,Software Development,Mobile App Development,Software Engineer,3,3,2,2.67
+169,Oliver Brown,0,23,3.7,Computer Science,Web Development,E-Commerce Website,Web Developer,1,3,3,2.33
+170,Sophia Johnson,1,22,3.5,Computer Science,Cybersecurity,Network Security,Information Security Analyst,2,1,3,2.0
+171,William Smith,0,21,3.9,Computer Science,Machine Learning,Image Classification,Machine Learning Engineer,3,2,1,2.0
+172,Charlotte Davis,1,22,3.7,Computer Science,Database Management,Sql Database Design,Database Administrator,1,3,2,2.0
+173,James Wilson,0,20,3.6,Computer Science,Cloud Computing,Cloud Infrastructure Management,Cloud Solutions Architect,3,1,1,1.67
+174,Olivia Clark,1,21,3.5,Computer Science,Mobile App Development,Ios App Development,Mobile App Developer,1,3,2,2.0
+175,Matthew Hall,0,23,3.8,Computer Science,Artificial Intelligence,Natural Language Processing,Nlp Research Scientist,3,1,1,1.67
+176,Elijah Davis,0,22,3.7,Computer Science,Web Development,Full-Stack Web App,Web Developer,1,3,3,2.33
+177,Emma Johnson,1,20,3.6,Computer Science,Cybersecurity,Security Auditing,Information Security Analyst,3,2,1,2.0
+178,Liam Wilson,0,21,3.4,Computer Science,Machine Learning,Natural Language Processing,Machine Learning Engineer,3,2,1,2.0
+179,Sophia Johnson,1,22,3.5,Computer Science,Database Management,Sql Database Administration,Database Administrator,1,3,2,2.0
+180,Michael Brown,0,23,3.7,Computer Science,Cloud Computing,Cloud Solution Architecture,Cloud Solutions Architect,3,3,1,2.33
