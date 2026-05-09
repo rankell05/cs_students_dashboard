@@ -160,7 +160,7 @@ elif page == "📊 Lab 1: Descriptive Statistics":
         st.write(f"**Number of columns:** {df.shape[1]}")
         st.write(f"**Total elements:** {df.shape[0] * df.shape[1]}")
     with col2:
-        st.write(f"**Columns:** {', '.join(df.columns.tolist()[:6]}...")
+        st.write(f"**Columns:** {', '.join(df.columns.tolist()[:6])}...")
         st.write(f"**Data types:** {df.dtypes.value_counts().to_dict()}")
     
     st.markdown("---")
