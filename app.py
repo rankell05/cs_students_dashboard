@@ -13,7 +13,10 @@ from scipy.stats import chi2_contingency, ttest_ind
 import plotly.express as px
 import plotly.graph_objects as go
 import math
-
+from sklearn.linear_model import LinearRegression
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
+from sklearn.preprocessing import StandardScaler
 # Page config
 st.set_page_config(
     page_title="CS Students Analytics",
